@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=DailyReport
+comment0.text=\n\ Generate\ daily\ report\n\ @\ Team\ 126\n\ @\ version\ (11/10/2018)\n
+comment1.params=
+comment1.target=DailyReport()
+comment2.params=adminId\ adminName\ date\ price\ feedback
+comment2.target=void\ addToDailyReport(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ boolean)
+comment3.params=date
+comment3.target=void\ viewDailyReport(java.lang.String)
+numComments=4

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Product
+comment0.text=\n\ Store\ details\ of\ each\ product\n\ @\ Team\ 126\n\ @\ version\ (11/10/2018)\n
+comment1.params=
+comment1.target=Product()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Product\n
+comment10.params=productId
+comment10.target=java.lang.String\ toString(int)
+comment2.params=
+comment2.target=java.util.List\ getNameList()
+comment3.params=
+comment3.target=java.util.List\ getSupplierList()
+comment4.params=
+comment4.target=java.util.List\ getDesList()
+comment5.params=
+comment5.target=java.util.List\ getDateList()
+comment6.params=
+comment6.target=java.util.List\ getWeightPriceList()
+comment7.params=
+comment7.target=java.util.List\ getprepacked5kgPriceList()
+comment8.params=
+comment8.target=java.util.List\ getprepacked10kgPriceList()
+comment9.params=productId
+comment9.target=void\ display(int)
+numComments=11
